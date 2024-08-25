@@ -2,7 +2,7 @@ let gridSize = 200;
 let squareSize = 100 / 16;
 let buttonWidth = gridSize / 2;
 let squares = [];
-let color = "red";
+let color = "black";
 let newSize = 16;
 let clearButton;
 let changeColorButton;
